@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI,Security
 - 🌱 I’m currently learning Java,Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Plangforedu@gmail.com
+- 📫 How to reach me at Plangforedu@gmail.com
 
 <!---
 Catto132/Catto132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
